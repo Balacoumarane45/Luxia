@@ -23,6 +23,4 @@ Luxia comes with a variety of features to enhance the online shopping experience
 
 Product Catalog: Browse a wide range of products with detailed descriptions and images.
 
-User Authentication: Create an account, log in, and enjoy personalized shopping experiences.
-
 Responsive Design: Luxia is designed to work seamlessly on desktops, tablets, and mobile devices.
