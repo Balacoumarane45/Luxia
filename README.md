@@ -1,4 +1,4 @@
-#Luxia E-Commerce Website
+# Luxia E-Commerce Website
 Welcome to Luxia, an elegant and feature-rich E-Commerce website designed to provide users with a seamless shopping experience. This repository contains the source code and documentation for the Luxia project.
 
 Getting Started
